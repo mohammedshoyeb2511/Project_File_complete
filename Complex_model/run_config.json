@@ -1,0 +1,15 @@
+{
+  "GRAPH_DATA": "/kaggle/input/graph-data-sets/graph_data.pt",
+  "EMB_DIM": 512,
+  "DROPOUT": 0.1,
+  "LR": 0.001,
+  "EPOCHS": 5,
+  "BATCH_EDGES": 4096,
+  "NEGATIVE_RATIO": 1,
+  "VAL_MAX_TRIPLES": 400,
+  "EVAL_CHUNK_SIZE": 20000,
+  "EVAL_QUERY_BATCH": 128,
+  "SCORES_MAX_TRIPLES": 2000,
+  "SCORES_NEG_PER_POS": 50,
+  "SEED": 42
+}
